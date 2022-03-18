@@ -1,7 +1,7 @@
 # CoviInfo-FRT-Project
 A website that makes use of chatbot powered by Microsoft Azure Bot Service to answer the most frequently asked questions related to the new Coronavirus providing people with the best answer possible so that they don't get misguided by wrong or inconsistent information.
 ## This web based covid information application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-**Project Link -**
+**Project Link -** https://covi-info.netlify.app/
 ## Features and Functionalities
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
