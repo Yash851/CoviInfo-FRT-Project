@@ -3,7 +3,7 @@
 ## This web based covid information application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 **Project Link -** https://lively-hill-0e5e3a510.1.azurestaticapps.net
 
-**Demo Video Link -**
+**Demo Video Link -** https://youtu.be/3WvQWdLr2LM
 ## Synopsis
 - **Problem Statement:-** As Covid-19 is a new virus and people does not have accurate and correct information about it and because of which they have many questions and doubt regarding it and they sometimes get misguided when they don't get satisfactory and accurate information, so my project will address this problem and try to provide the best information about the virus.
 - **Project Description:-** CoviInfo is a website that will make use of a chatbot which will offer answers to the various questions people have about the new Coronavirus. Often people get misguided when they don't get correct information, so this website will address this problem by providing the people with the best possible answer.
