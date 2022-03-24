@@ -8,6 +8,7 @@
 - **Problem Statement:-** As Covid-19 is a new virus and people does not have accurate and correct information about it and because of which they have many questions and doubt regarding it and they sometimes get misguided when they don't get satisfactory and accurate information, so my project will address this problem and try to provide the best information about the virus.
 - **Project Description:-** CoviInfo is a website that will make use of a chatbot which will offer answers to the various questions people have about the new Coronavirus. Often people get misguided when they don't get correct information, so this website will address this problem by providing the people with the best possible answer.
 - **Primary Azure Technology:-** Azure Bot Service, QnA Maker, Static Web Apps
+- For creating Question and Answer pair, I have used QnAMaker. I integreted QnAMAker with Web App bot. Then for hosting I have used Static Web App Service. Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository.
 ## Features and Functionalities
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
