@@ -1,7 +1,7 @@
 # CoviInfo-FRT-Project
 **Description:-** This is a website solely created to answer the most frequently asked questions about the Coronavirus by using a chatbot powered by Microsoft Azure Bot Service that retrieves information from a knowledge base containing all information about Coronavirus which is created using Microsoft Azure QnA Maker. The website is hosted on Static Web App service of Microsoft Azure.
 ## This web based covid information application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-**Project Link -** https://covi-info.netlify.app/
+**Project Link -** https://lively-hill-0e5e3a510.1.azurestaticapps.net
 
 **Demo Video Link -**
 ## Synopsis
